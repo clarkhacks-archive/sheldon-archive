@@ -31,8 +31,8 @@ dailyshell:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
-email cweckmaniii@gmail.com
-tel 618-365-0808
+email: cweckmaniii@gmail.com
+tel: 618-365-0808
 
 # Edit the daily/weekly/monthly fact here!
 fact:
