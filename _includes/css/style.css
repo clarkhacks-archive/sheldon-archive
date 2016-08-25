@@ -34,7 +34,6 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 }
-
 p {
 	padding: 0;
 	margin-bottom: 12px;
@@ -513,4 +512,17 @@ a.anchor{
     border-radius: 50%;
 		height: 50%;
 		width: 50%;
+}
+
+#green {
+	background-color: #339966;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+#green h3 {
+	color: white;
+	margin-left: 15px;
 }

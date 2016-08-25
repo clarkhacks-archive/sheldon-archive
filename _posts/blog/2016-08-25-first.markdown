@@ -1,0 +1,28 @@
+---
+layout: post
+title: "First Post!"
+date: 2016-08-25 14:02:45
+author: Clark Weckmann
+categories:
+- blog
+- Docs
+img: profile.jpg
+thumb: stat.png
+---
+
+#### First True Post!
+_Wow!_ A lot of work has been done. All that work was just to make less wake. Anyway! Here is the Sheldon Part!
+
+### Diet:
+
+#### Breakfast
+* Bread
+
+#### Lunch
+* He skipped it
+
+#### Dinner
+* Chicken Nugget (Dino Shaped)
+
+### Status Update!
+Sheldon's friend went missing (Fluffy the snapping turtle.) He climbed out of his tank and has gone missing. The search is still on!

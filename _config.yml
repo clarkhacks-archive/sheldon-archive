@@ -2,10 +2,10 @@
 
 # Site settings
 title: Sheldon The Turtle
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Check out Sheldon's funny and adorable life now at SheldonTheTurtle.com! Sheldon thanks you in advanced"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/sheldon-jekyll/" #important: start with /
-url: "https://clarkhacks.github.io/"
+baseurl: "" #important: start with /
+url: "http://yourdomain.com"
 
 # Build settings
 markdown: kramdown
@@ -40,5 +40,5 @@ fact:
     - A tortoise is a turtle but a turtle is not a tortoise.
 
 
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+#Shown in footer on every page and also separately on Home and Contact page.
+about: "Check out Sheldon's funny and adorable life now at SheldonTheTurtle.com! Sheldon thanks you in advanced!"
