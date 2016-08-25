@@ -1,0 +1,24 @@
+---
+layout: post
+title: "First Post"
+date: 2016-08-25 14:02:45
+author: Clark Weckmann
+categories:
+- blog
+- Tips&Tricks
+- Diet
+img: profile.jpg
+thumb: thumb03.jpg
+---
+
+# First True Post!
+Wow does it feel good to be able to edit this part now. sweeeet. LOL
+
+### testiinngg
+Still Just tessttiinnggg
+
+***
+
+### NAh Broh
+
+LOL NOOOOO WAY!
