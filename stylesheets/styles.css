@@ -1,0 +1,165 @@
+.full {
+    width: 100%;
+    height: 100%;
+}
+canvas {
+    display: block;
+    margin: auto;
+    position :absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    image-rendering: optimizeSpeed;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: optimize-contrast
+}
+.fb {
+    background: #3b5998;
+}
+.twi {
+    background: #55acee;
+}
+.goo {
+    background: #d34836;
+}
+.tum {
+    background: #36465d;
+}
+.vid {
+    width:100%;
+    height: 100%;
+}
+.hide {
+    display:none;
+}
+.answer {
+    font-family:'Courgette', serif;
+}
+.quizHeader {
+    font-family:'Pacifico', serif;
+}
+.gif {
+    width: 100%;
+    height: auto;
+}
+.full {
+    width: 100%;
+    height: auto;
+}
+body {
+    background-image: url("../images/Sheldon_Collage.png");
+    background-color: #cccccc;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover
+}
+time {
+    color: black;
+    font-weight: bold;
+    font-family:'Pacifico', serif;
+    padding-bottom: 50px;
+}
+.welcome {
+    text-align: center;
+    font-family:'Pacifico', serif;
+}
+.pacif {
+    font-family:'Pacifico', serif;
+}
+.cour {
+    font-family:'Courgette', serif;
+}
+.apl {
+    font-family:'Homemade Apple', Pacifico;
+}
+.ind {
+    font-family:'Indie Flower', serif;
+}
+.timeline {
+    position: relative;
+    padding: 21px 0px 10px;
+    margin-top: 4px;
+    margin-bottom: 30px;
+}
+.highwhite {
+    background-color: white
+}
+
+/*Nav Bar*/
+.navbar {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.navbar {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+/* Below Made With http://work.smarchal.com/twbscolor/ */
+ .navbar-default {
+    background-color: #ffffff;
+    border-color: #dfdfdf;
+    margin-top:13px;
+}
+.navbar-default .navbar-brand {
+    color: #000000;
+    font-family: Pacifico;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #000000;
+}
+.navbar-default .navbar-text {
+    color: #000000;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #000000;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #000000;
+    background-color: #dfdfdf;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #000000;
+    background-color: #dfdfdf;
+}
+.navbar-default .navbar-toggle {
+    border-color: #dfdfdf;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #dfdfdf;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000000;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #000000;
+}
+.navbar-default .navbar-link {
+    color: #000000;
+}
+.navbar-default .navbar-link:hover {
+    color: #000000;
+}
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #000000;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #000000;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #000000;
+        background-color: #dfdfdf;
+    }
+}
+
+/*Mail Chimp*/
+#mc_embed_signup {
+                background:#fff;
+                clear:left;
+                font:14px Helvetica, Arial, sans-serif;}

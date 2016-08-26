@@ -1,0 +1,1 @@
+document.write("<a id=\"vid8516\"><\/a><div><time><i class=\"glyphicon glyphicon-meter\"><\/i>8\/5\/16<\/time><article class=\"panel panel-default\"><div class=\"panel-body\"><iframe width=\"100%\" height=\"100%\" src=\"https:\/\/www.youtube.com\/embed\/ebpprqwcamA\" frameborder=\"0\" allowfullscreen=\"\"><\/iframe><\/div><\/article><\/div>");

@@ -1,0 +1,1 @@
+document.write("<div><time><i class=\"glyphicon glyphicon-meter\"><\/i>8\/23\/16<\/time><article class=\"panel panel-primary\"><div class=\"panel-heading\"><h1 class=\"panel-title ind\">Sheldon Loves His Play Table<\/h1><\/div><div class=\"panel-body ind\">He seems to really enjoy dirt. He loves the hay but by far prefers the dirt!<\/div><\/article><\/div>");

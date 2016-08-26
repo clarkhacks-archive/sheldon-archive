@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+Allow: /index.html
+Allow: /images.html
+Allow: /images
+Allow: /diet
+Allow: /diet.html
+
+Sitemap: http://sheldontheturtle.com/sitemap.xml

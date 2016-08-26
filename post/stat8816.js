@@ -1,0 +1,1 @@
+document.write("<a id=\"stat8816\"><\/a><div><time><i class=\"glyphicon glyphicon-meter\"><\/i>8\/8\/16<\/time><article class=\"panel panel-primary\"><div class=\"panel-heading\"><h1 class=\"panel-title ind\">He Made A Friend!<i class=\"twa twa-thumbsup\"><\/i><\/h1><\/div><div class=\"panel-body ind\">Then he ate him... RIP Butterfly!<\/div><\/article><\/div>");

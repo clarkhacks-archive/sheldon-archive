@@ -1,0 +1,1 @@
+document.write("<div><time><i class=\"glyphicon glyphicon-meter\"><\/i>8\/17\/16<\/time><article class=\"panel panel-primary\"><div class=\"panel-heading\"><div class=\"panel-title pacif\"><h3>So much media!<\/h3><\/div><\/div><div class=\"panel-body cour\"><h3 class=\"ind\">Lots of new pictures and videos coming soon!!!<\/h3><\/div><\/article><\/div>");

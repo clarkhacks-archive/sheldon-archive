@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/ownerbg.jpg");
+    background-color: #cccccc;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+.pacif {
+    font-family:'Pacifico', serif;
+}
+.cour {
+    font-family:'Courgette', serif;
+    color: white;
+}
+.apl {
+    font-family:'Homemade Apple', Pacifico;
+    color: white;
+}
+.chan {
+    font-family:'Changa', Courgette;
+    color:white
+}
+.lem {
+    font-family:'Lemonada', serif;
+}
+.meimg {
+    margin-bottom: 10%;
+}
+.bdpd {
+    padding-left: 4%;
+    padding-right: 4%;
+}
+.blck {
+   color: black;
+}

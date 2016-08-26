@@ -1,0 +1,11 @@
+document.write("<a id=\"stat8116\"><\/a><div>");
+document.write("        <time><i class=\"glyphicon glyphicon-meter\"><\/i>8\/1\/16<\/time><article class=\"panel panel-primary\">");
+document.write("            <div class=\"panel-heading\">");
+document.write("                <h2 class=\"panel-title pacif\">Status Report!<\/h2>");
+document.write("            <\/div>");
+document.write("            <div class=\"panel-body ind\">Sheldon had a lot of fun and is all tuckered out C: <\/div>");
+document.write("            <div class=\"panel-footer\"> Wanna see a");
+document.write("  <a href=\"novid\">video<\/a> of his playtime?");
+document.write("            <\/div>");
+document.write("        <\/article>");
+document.write("  <\/div>");

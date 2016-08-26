@@ -1,0 +1,14 @@
+document.write("<a id=\"img8416B\"><\/a><div>");
+document.write("<time><i class=\"glyphicon glyphicon-meter\"><\/i>8\/4\/16<\/time><article class=\"panel panel-default\">");
+document.write("            <div class=\"panel-body\">");
+document.write("<a href=\"images\/posts\/road_trip.jpg\" target=\"_blank\">");
+document.write("                <img class=\"img-responsive img-rounded\" alt=\"Image could not be loaded\" src=\"images\/posts\/road_trip.jpg\">");
+document.write("<\/a>");
+document.write("<br>");
+document.write("<a href=\"images\/posts\/road_trip_lap.jpg\" target=\"_blank\">");
+document.write("                <img class=\"full img-responsive img-rounded\" alt=\"Image could not be loaded\" src=\"images\/posts\/road_trip_lap.jpg\">");
+document.write("<\/a>");
+document.write("            <\/div>");
+document.write("<div class=\"pacif panel-footer\"> <h3>Road Trip!<\/h3><\/div>");
+document.write("        <\/article>");
+document.write("<\/div>");
