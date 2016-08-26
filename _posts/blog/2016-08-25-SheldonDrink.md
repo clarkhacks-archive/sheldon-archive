@@ -5,7 +5,7 @@ date: 2016-08-25 18:54:32
 author: Clark Weckmann
 categories:
 - blog
-img: drink.jpg
+img: drinking.jpg
 thumb: diet.png
 ---
 
