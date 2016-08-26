@@ -5,8 +5,8 @@ date: 2016-08-25 18:54:32
 author: Clark Weckmann
 categories:
 - blog
-img: drinking.jpg
-thumb: drinking.jpg
+img: drink.jpg
+thumb: diet.png
 ---
 
 ### Sheldon is getting a drink. 
