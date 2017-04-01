@@ -1,0 +1,29 @@
+<div id="footerwrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h4>About</h4>
+                <div class="hline-w"></div>
+                <p>{{ site.about }}</p>
+            </div>
+            <div class="col-lg-4">
+                <h4>Contact:</h4>
+                <div class="hline-w"></div>
+                <p>
+                  <a href="mailto:{{ site.email }}">Email Me</a>
+                  <br>
+                <a href="https://github.com/clarkhacks/Sheldon/issues/new" class="btn btn-danger btn-xs">Report A Bug</a>
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <h4>Daily Shell</h4>
+                <div class="hline-w"></div>
+                <p>
+                    {% for line in site.dailyshell.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
+            </div>
+        </div>< --/row -->
+    </div><!--/container -->
+</div><!--/footerwrap -->

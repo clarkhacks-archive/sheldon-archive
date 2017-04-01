@@ -1,0 +1,50 @@
+.btn-patreon{
+  background-color: #FF6600;
+  text-decoration: none;
+  color: white;
+}
+.btn {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+.card.hovercard {
+  position: relative;
+  padding-top: 0;
+  overflow: hidden;
+  text-align: center;
+  background-color: #f9f9f9;
+border-radius: 5px ;
+}
+
+.cardheader {
+  background: url('https://sheldontheturtle.com/assets/img/patreon_card/bg.jpg');
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  height: 135px;
+}
+
+.avatar {
+  position: relative;
+  top: -50px;
+  margin-bottom: -50px;
+}
+
+.avatar img {
+  width: 100px;
+  height: 100px;
+  max-width: 100px;
+  max-height: 100px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 5px solid white;
+  border: 5px solid rgb(255, 255, 255, 0.5);
+}
+
+.info {
+  padding: 4px 8px 10px;
+}
